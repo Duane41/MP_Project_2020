@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MP_Project</string>
+    <string name="welcome_text">Welcome!</string>
+    <string name="calendar_button_text">Calendar</string>
+    <string name="tasks_button_text">Tasks</string>
+    <string name="groceries_button_text">Groceries</string>
+    <string name="funds_button_text">Funds</string>
+    <string name="calendar_events_text">Calendar Events</string>
+    <string name="selected_date_text">Selected Date</string>
+    <string name="to_do_list_text">To do list</string>
+    <string name="hint_description">Description...</string>
+    <string name="button_save">Save</string>
+    <string name="action_settings">Settings</string>
+    <string name="due_date">Due Date...</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="CREATE_TASK_ACTIVITY">CREATE_TASK_ACTIVITY</string>
+    <string name="CREATE_FUND_ACTIVITY">CREATE_FUND_ACTIVITY</string>
+    <string name="CREATE_GROCERY_ITEM">CREATE_GROCERY_ITEM</string>
+    <string name="CREATE_CALENDAR_ACTIVITY">CREATE_CALENDAR_ACTIVITY</string>
+    <string name="default_dash_total">R0.00</string>
+    <string name="default_funds_dash_title">You owe:</string>
+    <string name="amount_paid">Amount paid</string>
+</resources>

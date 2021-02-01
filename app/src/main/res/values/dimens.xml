@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="home_button_width">110dp</dimen>
+    <dimen name="home_button_height">104dp</dimen>
+    <dimen name="home_button_text_size">24sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="activity_title_size">36sp</dimen>
+    <dimen name="main_activity_text_margin">16sp</dimen>
+</resources>
